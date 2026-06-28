@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 💫 About Me:
+## 💫 About Me:
 🎓 IT Graduate (2020–2024)<br>💻 Learning Python Backend Development, Flask, PostgreSQL, Git, GitHub, Docker, RAG, MCP, AWS<br>🚀 Building projects and improving your GitHub portfolio<br>🔍 Currently looking for a Backend Developer / Python Developer role<br>📚 Continuously learning AI and backend technologies
 
 

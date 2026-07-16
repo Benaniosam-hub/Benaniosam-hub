@@ -4,7 +4,7 @@
   <p>I build scalable backend systems and intelligent AI applications.</p>
 
   <!-- Custom Button Badges -->
-  <a href="https://benaniosam-hub.github.io/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-EF4444?style=for-the-badge&logo=browser&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://drive.google.com/file/d/1jvRqW-TC264t_dp6hRTEJlc1s0afzrDZ/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-EF4444?style=for-the-badge&logo=browser&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/benaniosam" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-104ED0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:benaniosam008@gmail.com"><img src="https://img.shields.io/badge/EMAIL-F97316?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
@@ -59,6 +59,6 @@
 ---
 
 ### 📬 Reach me
-* 🌐 **Portfolio:** [benaniosam-hub.github.io](https://benaniosam-hub.github.io/)
+* 🌐 **Portfolio:** [benaniosam-hub.github.io](https://drive.google.com/file/d/1jvRqW-TC264t_dp6hRTEJlc1s0afzrDZ/view?usp=sharing)
 * 💼 **LinkedIn:** [Benaniosam](www.linkedin.com/in/benaniosam)
 * ✉️ **Email:** benaniosam008@gmail.com

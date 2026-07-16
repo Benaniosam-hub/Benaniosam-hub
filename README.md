@@ -4,15 +4,9 @@
   <p>I build scalable backend systems and intelligent AI applications.</p>
 
   <!-- Custom Button Badges -->
-  <a href="https://benaniosam-hub.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-EF4444?style=for-the-badge&logo=browser&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="www.linkedin.com/in/benaniosam" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:benaniosam008@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-F97316?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <a href="https://benaniosam-hub.github.io/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-EF4444?style=for-the-badge&logo=browser&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/benaniosam" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-104ED0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:benaniosam008@gmail.com"><img src="https://img.shields.io/badge/EMAIL-F97316?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
 ###### 🎓 *IT Graduate (2020–2024)*

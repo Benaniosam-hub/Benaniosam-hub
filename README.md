@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Hi, I'm Benaniosam 👋</h2>
+  <h4>Hi, I'm Benaniosam 👋</h4>
   <p><b>Backend & Python Developer · Kanyakumari, India</b></p>
   <p>I build scalable backend systems and intelligent AI applications.</p>
 
@@ -15,16 +15,13 @@
   </a>
 </div>
 
+###### 🎓 *IT Graduate (2020–2024)*
+#### *Passionate backend engineer specializing in building robust applications, optimizing databases, and integrating AI models. Currently focused on mastering Python ecosystem workflows, RAG systems, and cloud deployments.*
 
 
 
-🎓 **IT Graduate (2020–2024)**  
-Passionate backend engineer specializing in building robust applications, optimizing databases, and integrating AI models. Currently focused on mastering Python ecosystem workflows, RAG systems, and cloud deployments.
-
-
-
-##### 🛠️ Tech I Build With
-<div align="left">
+###### 🛠️ *Tech I Build With*
+<div align="center">
   <!-- Clean Skill Icons using skillicons.dev -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,docker,aws,git,github" />
